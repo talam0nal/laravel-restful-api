@@ -15,3 +15,7 @@ php artisan key:generate
 ```shell
 php artisan migrate
 ```
+7. Generate JWT secret key
+```shell
+php artisan jwt:generate
+```
