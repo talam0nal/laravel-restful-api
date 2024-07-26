@@ -1,5 +1,3 @@
-How to start project locally?
--------
 1. Clone this repo
 2. Run
 ```shell
