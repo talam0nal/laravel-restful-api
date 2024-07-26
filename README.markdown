@@ -3,7 +3,7 @@
 ```shell
 composer install
 ```
-3. Copy .env.example .env if using cmd
+3. Copy .env.example to .env
 4. Run 
 ```shell
 php artisan key:generate
